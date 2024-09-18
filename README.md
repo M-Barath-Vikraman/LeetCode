@@ -4,9 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0066-plus-one) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## String
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
