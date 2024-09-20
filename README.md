@@ -16,9 +16,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
