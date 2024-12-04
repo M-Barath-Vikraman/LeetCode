@@ -55,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
