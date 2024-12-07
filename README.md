@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0414-third-maximum-number) |
 ## Bit Manipulation
 |  |
 | ------- |
