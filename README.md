@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
@@ -38,11 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## String Matching
 |  |
 | ------- |
@@ -83,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0414-third-maximum-number) |
 ## Bit Manipulation
 |  |
