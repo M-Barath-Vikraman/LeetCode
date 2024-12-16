@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2238-a-number-after-a-double-reversal](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
+| [2748-calculate-delayed-arrival-time](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/2748-calculate-delayed-arrival-time) |
 ## String
 |  |
 | ------- |
