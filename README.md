@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0414-third-maximum-number) |
+| [0682-baseball-game](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0682-baseball-game) |
 | [1806-count-of-matches-in-tournament](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 ## Greedy
 |  |
@@ -120,4 +122,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/M-Barath-Vikraman/LeetCode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
